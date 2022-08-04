@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKTIiQVP5nUXwyY6nsmkhz1vQEsHnn9VUDw21XTcjA83+bwcJF3V89oTs3RLuMtoGcsW4/i7wHEvWV6Atk8fuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henok\\source\\repos\\DemoAPI3\\DemoAPI3\\powerplant-coding-challenge\\LoadAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henok\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
