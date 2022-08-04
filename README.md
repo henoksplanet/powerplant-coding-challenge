@@ -9,14 +9,14 @@ SDK 6 which supports the latest version of .NET 6.0
  ##### Simply opening the available solution file and then building the API.
 #### From CLI 
 #####    Navigate to the folder that contains the .csproj and run the following command:
-  dotnet build
+#####    dotnet build
    
 # Publishing/Launching the API
-  #### From Visual Studio
+## From Visual Studio
     Simply opening the available solution file and then running the API.
-#### From CLI 
-######     Navigate to the folder that contains the .csproj and run the following command:
-  dotnet run
+## From CLI 
+####     Navigate to the folder that contains the .csproj and run the following command:
+##### dotnet run
   
 
 
