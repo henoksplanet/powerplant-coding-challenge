@@ -157,6 +157,10 @@ namespace LoadAPI
 
             foreach (Powerplant powerplants in m_powerplants)
             {
+                if (powerplants.type == WIND)
+                {
+                    powerplants.pmax = Math.Round(powerplants.pmax * m_payload.fuels.Wind / 100, 1, MidpointRounding.ToEven);
+                }
                 PowerplantExtended powerplantExtended_temp = JsonConvert.DeserializeObject<PowerplantExtended>(JsonConvert.SerializeObject(powerplants));
                 m_powerplantExtended.Add(powerplantExtended_temp);
             }
