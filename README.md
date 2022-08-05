@@ -16,7 +16,7 @@ SDK 6 which supports the latest version of .NET 6.0
     Simply opening the available project file and then running the API.
 ## From CLI 
 ###     Navigate to the folder that contains the .csproj and run the following command:
- dotnet run
+    dotnet run
 
 
 
