@@ -23,8 +23,8 @@ namespace LoadAPI
             public string name { get; set; }
             public string type { get; set; }
             public double efficiency { get; set; }
-            public int pmin { get; set; }
-            public int pmax { get; set; }
+            public double pmin { get; set; }
+            public double pmax { get; set; }
         }
 
         public class Root
